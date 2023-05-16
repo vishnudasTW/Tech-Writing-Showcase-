@@ -1,5 +1,5 @@
 # Tech Writing Showcase
-### about this repository
+### About this repository
 This repository serves as a comprehensive collection of my technical and non-technical documents. 
 
 
