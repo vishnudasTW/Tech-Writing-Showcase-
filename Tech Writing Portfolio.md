@@ -11,3 +11,18 @@ This repository serves as a comprehensive collection of my technical and non-tec
 | 5| [Importance of recycling and waste management](https://github.com/vishnudasTW/Free_writing_sample-/wiki/Importance-of-recycling-and-waste-management)|Article| Article about importance of waste management and recycling.| 
 | 6| [Pro Tips : Tackle challenges in SME interview](https://github.com/vishnudasTW/SME-interview/wiki/Pro-Tips-:-Tackle-challenges-in-SME-interview)| Tips and Tricks | Article about how to tackle challenges with SME interview |
 |7| [Design thinking approach for problem solving](https://github.com/vishnudasTW/Design-thinking-approach/wiki/Design-thinking-approach-for-problem-solving)| Article / How to | Article about how to use design thinking appraoch effectivley for problem solving|
+
+
+
+
+
+
+## Articles published in LinkedIn
+
+>[Program Increment planning in SAFe®](https://www.linkedin.com/pulse/pi-planning-safe-vishnu-das-m-tech/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
+
+>[Pro Tips : Tackle challenges in SME interview](https://www.linkedin.com/pulse/pro-tips-tackle-challenges-sme-interview-vishnu-das/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
+
+>[Jot down your notes using OneNote](https://www.linkedin.com/pulse/jot-down-your-notes-using-onenote-vishnu-das-1e/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
+
+>[Design thinking approach for problem solving](https://www.linkedin.com/pulse/design-thinking-approach-problem-solving-vishnu-das/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
