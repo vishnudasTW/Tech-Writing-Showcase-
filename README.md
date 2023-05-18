@@ -20,7 +20,7 @@ This repository serves as a comprehensive collection of my technical and non-tec
 
 
 
-## Articles published in LinkedIn
+## Articles published on LinkedIn
 
 >[Program Increment planning in SAFe®](https://www.linkedin.com/pulse/pi-planning-safe-vishnu-das-m-tech/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
 
