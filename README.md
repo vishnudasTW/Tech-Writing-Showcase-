@@ -13,6 +13,7 @@ This repository serves as a comprehensive collection of my technical and non-tec
 | 6| [Pro Tips : Tackle challenges in SME interview](https://github.com/vishnudasTW/SME-interview/wiki/Pro-Tips-:-Tackle-challenges-in-SME-interview)| Tips and Tricks | Article about how to tackle challenges with SME interview |
 |7| [Design thinking approach for problem solving](https://github.com/vishnudasTW/Design-thinking-approach/wiki/Design-thinking-approach-for-problem-solving)| Article / How to | Article about how to use design thinking approach effectively for problem solving|
 |8| [Create a repository in GitHub](https://github.com/vishnudasTW/Create-a-repository-in-GitHub-/wiki/Create-a-repository-in-GitHub) | Tutorial | This document describes how to create a repository using your GitHub account. Follow the step procedures.|
+|9|[Prepare email sample content for internal support and technical team](https://github.com/vishnudasTW/Email-content-for-internal-team/wiki/Prepare-email-sample-content-for-internal-support-and-technical-team) | Email content | Scenario 1: Prepare an email to inform internal team about the Priority 1 incident. Scenario 2: Prepare an email to inform the internal team about the release of New Kubernetes Cluster and expiration of old one.|
 
 ## My book and Amazon author page
 >[The beginner's guide to technical writing](https://www.amazon.in/gp/product/B0B7GPWHY1/ref=dbs_a_def_rwt_bibl_vppi_i0) | By Vishnu Das (Author) | Format: Kindle Edition |
