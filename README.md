@@ -18,7 +18,11 @@ This repository serves as a comprehensive collection of my technical and non-tec
 ## My book and Amazon author page
 >[The beginner's guide to technical writing](https://www.amazon.in/gp/product/B0B7GPWHY1/ref=dbs_a_def_rwt_bibl_vppi_i0) | By Vishnu Das (Author) | Format: Kindle Edition |
 
+## Scientific article published in international journal
 
+>[Journal of Materials Chemistry B, Royal Society of Chemistry](https://pubs.rsc.org/en/content/articlelanding/2015/TB/C5TB00568J)
+
+>[Download the PDF here](https://github.com/vishnudasTW/Tech-Writing-Showcase-/files/11564688/Vishnu.Das.international.journal.pdf)
 
 
 ## Articles published on LinkedIn
