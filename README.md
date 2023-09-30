@@ -38,6 +38,6 @@ This repository serves as a comprehensive collection of my technical and non-tec
 >[Design thinking approach for problem solving](https://www.linkedin.com/pulse/design-thinking-approach-problem-solving-vishnu-das/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
 
 
-## Articles published in Tech Writer's Tribe newsletter 
+## Article published in Tech Writer's Tribe newsletter 
 
 >[Writing & Beyond Edition 10 – September 2023](https://techwriterstribe.com/newsletter/)
