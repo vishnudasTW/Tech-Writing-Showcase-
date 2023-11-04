@@ -40,4 +40,4 @@ This repository serves as a comprehensive collection of my technical and non-tec
 
 ## Article published in Tech Writer's Tribe newsletter 
 
->[Writing & Beyond Edition 10 – September 2023](https://techwriterstribe.com/newsletter/)
+>[Writing & Beyond Edition 10 – September 2023](https://techwriterstribe.com/nl_ed_10/) 
