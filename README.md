@@ -38,6 +38,10 @@ This repository serves as a comprehensive collection of my technical and non-tec
 >[Design thinking approach for problem solving](https://www.linkedin.com/pulse/design-thinking-approach-problem-solving-vishnu-das/?trackingId=79XCh5MXTPqtDiiPr83QRg%3D%3D)
 
 
-## Article published in Tech Writer's Tribe newsletter 
+## Article published on Tech Writer's Tribe newsletter 
 
->[Writing & Beyond Edition 10 – September 2023](https://techwriterstribe.com/nl_ed_10/) 
+>[Writing & Beyond Edition 10 – September 2023](https://techwriterstribe.com/nl_ed_10/)
+
+>## Article published on Open Source For You (OSFY) Feb 2025
+
+>[AI Text Generators - Helping You Write Better](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/24-25_AI%20Text%20Generator_OSFY%20Feb.%2025.pdf) 
