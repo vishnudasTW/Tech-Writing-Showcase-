@@ -42,6 +42,13 @@ This repository serves as a comprehensive collection of my technical and non-tec
 
 >[Writing & Beyond Edition 10 – September 2023](https://techwriterstribe.com/nl_ed_10/)
 
-## Article published on Open Source For You (OSFY) Feb 2025
+## Article published on Open Source For You (OSFY) | Feb 2025
 
->[AI Text Generators - Helping You Write Better](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/24-25_AI%20Text%20Generator_OSFY%20Feb.%2025.pdf) 
+>[AI Text Generators - Helping You Write Better](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/24-25_AI%20Text%20Generator_OSFY%20Feb.%2025.pdf)
+
+## Article published on tcworld by tekom Europe | Feb 2025
+
+>[Simple and effective AI prompts for tech writers](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/Simple%20and%20effective%20AI%20prompts%20for%20tech%20writers%20-%20tcworld%20magazine.pdf)
+>
+>[tcworld web link](https://www.tcworld.info/e-magazine/technical-writing/simple-and-effective-ai-prompts-for-tech-writers)
+>
