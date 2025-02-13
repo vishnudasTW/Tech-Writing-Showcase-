@@ -44,7 +44,7 @@ This repository serves as a comprehensive collection of my technical and non-tec
 
 ## Article published on Open Source For You (OSFY) | Feb 2025
 
->[AI Text Generators - Helping You Write Better](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/24-25_AI%20Text%20Generator_OSFY%20Feb.%2025.pdf)
+>[AI Text Generators - Helping You Write Better](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/Cover_AI%20Text%20Generator_OSFY%20Feb.%2025.pdf)
 
 ## Article published on tcworld by tekom Europe | Feb 2025
 
