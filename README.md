@@ -56,3 +56,5 @@ This repository serves as a comprehensive collection of my technical and non-tec
 
 ## Article published on Open Source For You (OSFY) | May 2025
 >[Exploring GPT4All, the Local LLM Desktop App](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/GPT%20for%20all_VishnuDas_OSFYMay25.pdf)
+>
+>[OSFY web link](https://www.opensourceforu.com/2025/06/exploring-gpt4all-the-local-llm-desktop-app)
