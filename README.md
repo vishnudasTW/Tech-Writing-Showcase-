@@ -58,3 +58,8 @@ This repository serves as a comprehensive collection of my technical and non-tec
 >[Exploring GPT4All, the Local LLM Desktop App](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/GPT%20for%20all_VishnuDas_OSFYMay25.pdf)
 >
 >[OSFY web link](https://www.opensourceforu.com/2025/06/exploring-gpt4all-the-local-llm-desktop-app)
+
+## Article published on UXness | Dec 2025
+>[Tiny Text, Big Impact: How Microcopy Drives Product Success](https://github.com/vishnudasTW/Tech-Writing-Showcase-/blob/main/Microcopy%20article_UXness_Vishnu%20Das.pdf)
+>
+>[UXness web link](https://www.uxness.in/2025/12/microcopy-in-ux-design.html#)
